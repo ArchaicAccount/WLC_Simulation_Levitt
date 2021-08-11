@@ -1,0 +1,2 @@
+# WLC_Simulation_Levitt
+ This is what I have gotten done on the simulation so far, right now it is just a car with basic driving capabilitis that needs to be heavly modified to follow the specifcations of it's real life counterpart. There is also a very basic track that I made that is intended to simulate the track we had planned to make though I know that that track design was still under consideration.
